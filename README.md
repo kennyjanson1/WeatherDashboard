@@ -7,8 +7,7 @@ Check current weather and 5-day forecasts for any city, all in a **responsive an
 
 ## Demo 🎬
 
-![Weather Dashboard Screenshot](screenshot.png)  
-*(Replace with your actual screenshot)*
+![Weather Dashboard Screenshot](screenshot.jpg)  
 
 ---
 
