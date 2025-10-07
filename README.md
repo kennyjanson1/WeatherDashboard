@@ -35,16 +35,12 @@ Check current weather and 5-day forecasts for any city, all in a **responsive an
 
 1. Clone this repository:
 git clone https://github.com/your-username/weather-dashboard.git
-
 2. Navigate to the project folder:
 cd weather-dashboard
-
 3. Install dependencies:
 npm install
-
 4. Create a .env file (optional) to store your OpenWeatherMap API key:
 REACT_APP_API_KEY=your_api_key_here
-
 5. Start the development server:
 npm start
 
