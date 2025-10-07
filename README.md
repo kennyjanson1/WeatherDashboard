@@ -1,4 +1,4 @@
-# Weather Dashboard 🌤️☀️🌧️❄️
+S# Weather Dashboard 🌤️☀️🌧️❄️
 
 A real-time weather dashboard built with **React** 💻 and **OpenWeatherMap API** 🌐.  
 Check current weather and 5-day forecasts for any city, all in a **responsive and modern UI** ⚡.
